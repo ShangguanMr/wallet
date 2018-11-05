@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/2566eb1dde9bf9d29cfbbd09c2f8e93f31f5f7c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86b6630b7fcb9b7fee3ff3b6e44569fdb325f948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/43efddaa0ba3a1f07a383a6875e755bdf61ca48f/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_f2d7ccdd968f182219d19569e8dbde8680b3e006/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/2e43a9337b8f406b31af20d96aa476b6c8c46716/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a7967c86bd6f10d4907e788f187ec7f6abc7452/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_11d2a379f2b12ffbcb964d84d8dcc0040994f179/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_3538809baac6b68964d9bbc5b3a765b5c075db6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/c4a16de755f52100af4ae4f89d5e1908d355f67d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3d43602bf8cc0fe923d312a77723e37b88c97df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/97d0e75d86ed05151b58fd712cd03dc96206e9c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_289f5cfe35b848e863ec67700de596d5bbfbe18e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/92cc69bb9c7e5f0285dfe2180d309db6e4dc5333/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3bed41dc3164f618b7c22f37116f60b2017046e7">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccec934e1f92f4a2195930ce8731a411b8511906/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/9970eba2190bbcf11d7ebe6e8c83c81941a8e39f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ff84ecfe1dd78b98be147daaa042bc32219793b8">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e2a89254003c6a20408d400abb11da9769ca83a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/92257dc8e00b6e8f085a74c5e739d4c77f04609d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc99b0a274eeb21b6509870d5895b77b8f459fc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.1.0_e084b9dcee62d4f4d8fdbfcb15a4d8e37e79e0e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/7396407491352ce4fa30de92efb158adb76b5b/json-smart-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="007396407491352ce4fa30de92efb158adb76b5b">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/json-smart-2.3_ea9f644dc72083e4c120b07756453ac3f1144dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6e166fa8c0bf9769c07e558fa6d2183f81d7b270">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_726764d181f9f9a23f2288739d6633b1bd4347b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/0fd2e997ae4fd977176777b85e565e5504a756b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7fd68c7205c9e165b30f2fb5a03896a62862c72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/149c35db2f4c4624803b2e75cac06f68801215a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d80ca1c7d4d4b77f9ca294f884d90c5ac14d08c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/metadata-extractor-2.9.1_31b7e42cf42ae7800e15f2e33a9599d7e48b9dce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/eca062892752e0d35e746f7987044b048ed30782/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_417c00d57614caadff0b964f2ef68032b7039aee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.6.0_da3a5c5802bc9460b99ba1929728286319055bb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7921202dad9d7212328b089fcee509a94ed649c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/7d487fe3fc821450212d037ad4820c8c697eafbe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e55d3b3f79a1e7eca072cfd556e7c437b6afecf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/4f6315baafdbd7d68cf030c0e5d17d8e6986fb8a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc34f6a5e4edca457a400b0baed4a4db2749242b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.facebook.infer.annotation/infer-annotation/0.11.2/f514ff4ca022a579d9cf7524846988b646ae4491/infer-annotation-0.11.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f514ff4ca022a579d9cf7524846988b646ae4491">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotation-0.11.2_833be05918b425957f0bee90dc0bce8924b430d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/cbc7d634108f2dcd97ec389567c52b0b8be280ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b92728a4c5ca2cd1c22473e35ff88a881de4dcd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_71a41c9ee7908ef8be8fcdf6edd850c6a895ea49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/fb62a3ebed05d57d5059cd8d1220723dfb1ebb97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fddd828aa2365a453562d62b07da4a2d94a24ad">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f45e3561cab9e005a1cc63df8d6c36584c9a0052/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.1_1b1a025d3520c27d854c0effe864b949809a963d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/9505ab543de064510e792d7c7b91615004345228/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f934e2c2402f726cbbb9a026f0c3468edf1b0ad1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/d691eb9a6e6140a4c1d06090841f568208e3e9fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5685be2a73af1afd875337a5a410be7446af2952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/3a7ec617c82e11447f576ae434c91ef5c916effe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d2d2297f652eca8330ebb357670e4e54f0e1a3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/77cc5a78fc3aed20a7b651e5ba9b1fb123a2c627/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc8f82bc4584f56d8174babf823c9b615f5f5c36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/6ca34e17121b890c34f608c55dc2365d1d7b0cd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a59e611558554ef455ff2e5d23cdd38dd3a0afb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/348053dda51b867eb5618b3799b1047b48c120bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5e98e61bb71703a417185dd74bc691becc16edb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_78001b56a3bbcd900cce6262599547fa1a5e483a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_6f42bbc43442eaf170c102b89caf0b0dfb48a2e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/5.1/98dfb9ee74d290afce026a262c6297138a0c8ec4/nimbus-jose-jwt-5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="98dfb9ee74d290afce026a262c6297138a0c8ec4">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/nimbus-jose-jwt-5.1_57acf42bb3b3ad790f9de311a8f1c57147520cf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/ae9b226dc09c0e3f4d33768fe59e3777d15c55da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21572fe4c562af45f5987a71e4bb480135f403f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/fda9f52aa9f96017da490511bb8a465347197107/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dcbdd95b3d261b0fa28b026e76d50043767cb03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/ad7e56a9002660be2256c6664a784c763b10d9b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c5e7c690cf0f286e1336cec5ee1e368a36b3a7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.1_3c034ed1f9bb543a4217a718ab03822a8426dd58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_d6c9053eba687c184d0119fd1ce012ac072f7e7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/6571a4e6eab03deb84e5f3dab4b4c8723c1e83bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cc95ad466da44800955b79689023485ea39924a3">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef57f30637f3acec0f7cee94109debb5aa907ea2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/43efddaa0ba3a1f07a383a6875e755bdf61ca48f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e338d1aabd36b16b79c452d2e8d136c677b2c579/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/24af1b340d08de6107b535319b4fc52dc308acba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fb23a417bf26e743418b0921a7a2072574f5ee3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.0_77db4ebebfc6016b06f9ebaff30e648f35db0c22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/24f049b90c49e2cb1b00e50e2d4a1c8d76650bdc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0d6df4057d1620a785f5bd2e69dd0d7866f3613c">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e47063671bd33c1249fb0426857af27b8aee332/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/948e610bb832424f71631de3829518116fec2787/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bc5d9cc0f5fe016b612d4c91c7c69df5b1ad44f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_6f71f1fbc7daaf5f92a217c2e64fe3bbc849e38b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.github.stephenc.jcip/jcip-annotations/1.0-1/ef31541dd28ae2cefdd17c7ebf352d93e9058c63/jcip-annotations-1.0-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ef31541dd28ae2cefdd17c7ebf352d93e9058c63">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jcip-annotations-1.0-1_7935b0f7f485414aa066c63a8919d46870582c4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/6002cc04882aa24a6cdaccd4b1f872fdaff73570/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce86d90685374d4da5666c870cad06c897391c32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/52d36c4fac146e86b0f13bc645aee4c91d1808ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ff997c37654bead6c259c0b124d52bdc944f5bff">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_197ea7732fb27657f0f52f4fb03423068320ffb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_16fd970a457b84cd15f39f6f93d3f5a7750c26b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c592b500269bfde36096641b01238a8350f8aa31/accessors-smart-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c592b500269bfde36096641b01238a8350f8aa31">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/accessors-smart-1.2_b6b2d933a9f6cececc73afc43df25e9985afb707/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.4/da08b8cce7bbf903602a25a3a163ae252435795/asm-5.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0da08b8cce7bbf903602a25a3a163ae252435795">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/asm-5.0.4_bee06dbc80ceb3eac0c1e62daaab65d6ee7d11cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_49b23d7c230a1bf46d04a6388a85a97334e165e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/xmpcore-5.1.2_a97718048e43c50ce70f87e2330ef4f16bb98e15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/455cb232ec5352b8160ab5f9a98c92713c7ba06a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f390708b4a353b8f251adc70c4f08903a6785c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shangguanmr/.android/build-cache/4b9e87ed158e33c46a1f57d73ee704dec643bff7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="/Users/shangguanmr/Project/purse_ekt/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ce8e023e86fc65725a7ac44420549eaeaf6da87/classes.dex" />
+    </item>
+
+</items>

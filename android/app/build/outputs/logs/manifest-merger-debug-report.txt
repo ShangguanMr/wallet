@@ -1,0 +1,352 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [:mobile:] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/mobile.aar/63e92c93b2a9c776a7af3580bec1a1b6/AndroidManifest.xml:1:1-2:50
+MERGED from [:react-native-code-push] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-code-push/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-29:12
+MERGED from [:react-native-splash-screen] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-camera] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-view-shot] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-view-shot/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/1bed9910768504f3dd592d7c8f815cff/AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/532f32400d2a3397012afb9a7c0dcdc5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/420d1e243adccf603b5022371382033f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-gif:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-gif-1.3.0.aar/9cda08a34cc9bb7d0a7bc573f348181a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base-support:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-base-support-1.3.0.aar/4ba38663dc3fa7f5e6a9f77d4b244e91/AndroidManifest.xml:2:1-9:12
+MERGED from [id.zelory:compressor:2.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/f9243d9db9d789198ed956330a5facb4/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/29a084e9a70527fb2f7626121544d673/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/be47c566c3f88f6e30c6234da82b704c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/0e8abf3887fba88717e74c97ddefdea3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/c8f3755c367f8295c712b487c5b83518/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/1c91d1b0f37df5460d4189f86fc580fb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/8463eefea59efd59a3c82a5774e3d973/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/e751d5d6dcfc4ff96f688183c8bee0a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/c2cc25aeb364a81919c517081f470c7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/12b229fa9710fd44e6ac60388d988c2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/2ba33118f7e7f4e11c9eb6c07079883a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/9339a368409cf0844f59eae69d50e699/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c65ac4a2f082de04fa08223ef8fb1c9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/61a825863f7aadcccc7103a8db1e0d90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/016b50bd32968ff445b192c1743f12e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/edcc58d1e8f59876bbf2437a9d88318a/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/3947fc84161930194981c09daaf5d1e7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/5f2f8fc7edd86c29a23a8fea6b3d70ae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9222e8abae945662575fbd9470fc6dd2/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1df725c98847ac9a63cb70266c994d4b/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:animated-base:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-base-1.3.0.aar/026ada6c09e4d34c56bffbb90ef92868/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/e8f226e529527207cbab39156a40f0c0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/79d9d01bae0b3ad5db4625838fa399ff/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/d38a07dd43a2576546ecab29fb99407f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/36a73b02375b4d246802d882d6a63048/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/80dcfd828c928c6894872b6d476531a8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/ef1310f33cc5b1b80d534d4c3c0b88ba/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/3d9cfbd541e9f1dde1a3a448ecdcfad9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/0dee686cc928729e77fdb9a91f96cfa5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/b9716444dad84df39325ae123b96dc77/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/aa30d9e412b282d35e7912559294bff3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/55828c4c72fd3e101389a848e864d8a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb91b347c87b8dde59512d376f978f23/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14a74263ff4509dc4461ab94c555defa/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+	package
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-code-push] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-code-push/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-code-push] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-code-push/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:5:5-78
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/1bed9910768504f3dd592d7c8f815cff/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/1bed9910768504f3dd592d7c8f815cff/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:11:22-80
+application
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:14:5-43:19
+MERGED from [:react-native-code-push] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-code-push/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-code-push] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-code-push/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-27:19
+MERGED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-27:19
+MERGED from [:react-native-splash-screen] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/1bed9910768504f3dd592d7c8f815cff/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/1bed9910768504f3dd592d7c8f815cff/AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/29a084e9a70527fb2f7626121544d673/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/29a084e9a70527fb2f7626121544d673/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/0e8abf3887fba88717e74c97ddefdea3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/0e8abf3887fba88717e74c97ddefdea3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/c8f3755c367f8295c712b487c5b83518/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/c8f3755c367f8295c712b487c5b83518/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/1c91d1b0f37df5460d4189f86fc580fb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/1c91d1b0f37df5460d4189f86fc580fb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/8463eefea59efd59a3c82a5774e3d973/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/8463eefea59efd59a3c82a5774e3d973/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9222e8abae945662575fbd9470fc6dd2/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9222e8abae945662575fbd9470fc6dd2/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1df725c98847ac9a63cb70266c994d4b/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1df725c98847ac9a63cb70266c994d4b/AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/80dcfd828c928c6894872b6d476531a8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/80dcfd828c928c6894872b6d476531a8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/ef1310f33cc5b1b80d534d4c3c0b88ba/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/ef1310f33cc5b1b80d534d4c3c0b88ba/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/3d9cfbd541e9f1dde1a3a448ecdcfad9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/3d9cfbd541e9f1dde1a3a448ecdcfad9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/0dee686cc928729e77fdb9a91f96cfa5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/0dee686cc928729e77fdb9a91f96cfa5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/b9716444dad84df39325ae123b96dc77/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/b9716444dad84df39325ae123b96dc77/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:16:9-36
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.ektwallet.MainActivity
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:21:9-41:20
+	android:label
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:24:13-45
+	android:launchMode
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:25:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:27:13-70
+	android:configChanges
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:23:13-83
+	android:theme
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:30:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:ektwallet
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:33:13-40:29
+action#android.intent.action.VIEW
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:37:27-75
+data
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:39:17-52
+	android:scheme
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:39:23-49
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:42:9-86
+MERGED from [:react-native-code-push] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-code-push/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-86
+MERGED from [:react-native-code-push] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-code-push/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-86
+	android:name
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:42:19-83
+uses-sdk
+INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+MERGED from [:mobile:] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/mobile.aar/63e92c93b2a9c776a7af3580bec1a1b6/AndroidManifest.xml:2:1-39
+MERGED from [:mobile:] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/mobile.aar/63e92c93b2a9c776a7af3580bec1a1b6/AndroidManifest.xml:2:1-39
+MERGED from [:react-native-code-push] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-code-push/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-code-push/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-splash-screen] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-view-shot/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-view-shot/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/1bed9910768504f3dd592d7c8f815cff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/1bed9910768504f3dd592d7c8f815cff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/532f32400d2a3397012afb9a7c0dcdc5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/532f32400d2a3397012afb9a7c0dcdc5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/420d1e243adccf603b5022371382033f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/420d1e243adccf603b5022371382033f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-gif:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-gif-1.3.0.aar/9cda08a34cc9bb7d0a7bc573f348181a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-gif-1.3.0.aar/9cda08a34cc9bb7d0a7bc573f348181a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base-support:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-base-support-1.3.0.aar/4ba38663dc3fa7f5e6a9f77d4b244e91/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base-support:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-base-support-1.3.0.aar/4ba38663dc3fa7f5e6a9f77d4b244e91/AndroidManifest.xml:5:5-7:41
+MERGED from [id.zelory:compressor:2.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/f9243d9db9d789198ed956330a5facb4/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/f9243d9db9d789198ed956330a5facb4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/29a084e9a70527fb2f7626121544d673/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/29a084e9a70527fb2f7626121544d673/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/be47c566c3f88f6e30c6234da82b704c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/be47c566c3f88f6e30c6234da82b704c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/0e8abf3887fba88717e74c97ddefdea3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/0e8abf3887fba88717e74c97ddefdea3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/c8f3755c367f8295c712b487c5b83518/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/c8f3755c367f8295c712b487c5b83518/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/1c91d1b0f37df5460d4189f86fc580fb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/1c91d1b0f37df5460d4189f86fc580fb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/8463eefea59efd59a3c82a5774e3d973/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/8463eefea59efd59a3c82a5774e3d973/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/e751d5d6dcfc4ff96f688183c8bee0a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/e751d5d6dcfc4ff96f688183c8bee0a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/c2cc25aeb364a81919c517081f470c7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/c2cc25aeb364a81919c517081f470c7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/12b229fa9710fd44e6ac60388d988c2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/12b229fa9710fd44e6ac60388d988c2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/2ba33118f7e7f4e11c9eb6c07079883a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/2ba33118f7e7f4e11c9eb6c07079883a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/9339a368409cf0844f59eae69d50e699/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/9339a368409cf0844f59eae69d50e699/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c65ac4a2f082de04fa08223ef8fb1c9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c65ac4a2f082de04fa08223ef8fb1c9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/61a825863f7aadcccc7103a8db1e0d90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/61a825863f7aadcccc7103a8db1e0d90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/016b50bd32968ff445b192c1743f12e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/016b50bd32968ff445b192c1743f12e4/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/edcc58d1e8f59876bbf2437a9d88318a/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/edcc58d1e8f59876bbf2437a9d88318a/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/3947fc84161930194981c09daaf5d1e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/3947fc84161930194981c09daaf5d1e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/5f2f8fc7edd86c29a23a8fea6b3d70ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/5f2f8fc7edd86c29a23a8fea6b3d70ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9222e8abae945662575fbd9470fc6dd2/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9222e8abae945662575fbd9470fc6dd2/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:animated-base:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-base-1.3.0.aar/026ada6c09e4d34c56bffbb90ef92868/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/animated-base-1.3.0.aar/026ada6c09e4d34c56bffbb90ef92868/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/e8f226e529527207cbab39156a40f0c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/e8f226e529527207cbab39156a40f0c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/79d9d01bae0b3ad5db4625838fa399ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/79d9d01bae0b3ad5db4625838fa399ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/d38a07dd43a2576546ecab29fb99407f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/d38a07dd43a2576546ecab29fb99407f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/36a73b02375b4d246802d882d6a63048/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/36a73b02375b4d246802d882d6a63048/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/80dcfd828c928c6894872b6d476531a8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/80dcfd828c928c6894872b6d476531a8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/ef1310f33cc5b1b80d534d4c3c0b88ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/ef1310f33cc5b1b80d534d4c3c0b88ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/3d9cfbd541e9f1dde1a3a448ecdcfad9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/3d9cfbd541e9f1dde1a3a448ecdcfad9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/0dee686cc928729e77fdb9a91f96cfa5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/0dee686cc928729e77fdb9a91f96cfa5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/b9716444dad84df39325ae123b96dc77/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/b9716444dad84df39325ae123b96dc77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/aa30d9e412b282d35e7912559294bff3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/aa30d9e412b282d35e7912559294bff3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/55828c4c72fd3e101389a848e864d8a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/55828c4c72fd3e101389a848e864d8a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb91b347c87b8dde59512d376f978f23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb91b347c87b8dde59512d376f978f23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14a74263ff4509dc4461ab94c555defa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14a74263ff4509dc4461ab94c555defa/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml
+provider#android.support.v4.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-26:72
+	android:screenOrientation
+		ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-60
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:react-native-camera] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [:react-native-camera] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/shangguanmr/Project/purse_ekt/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/c8f3755c367f8295c712b487c5b83518/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/c8f3755c367f8295c712b487c5b83518/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/c8f3755c367f8295c712b487c5b83518/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/c8f3755c367f8295c712b487c5b83518/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/8463eefea59efd59a3c82a5774e3d973/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/8463eefea59efd59a3c82a5774e3d973/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shangguanmr/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/8463eefea59efd59a3c82a5774e3d973/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/shangguanmr/Project/purse_ekt/android/app/src/main/AndroidManifest.xml:1:1-45:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4

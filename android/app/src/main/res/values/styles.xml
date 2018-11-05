@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--&lt;!&ndash;<item name="android:windowDisablePreview">true</item>&ndash;&gt;-->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- Customize your theme here. -->
+        <!--<item name="android:windowNoTitle">true</item>-->
+        <!--<item name="android:windowBackground">@drawable/launch_screen</item>-->
+        <!--<item name="colorPrimaryDark">@android:color/transparent</item>-->
+
+    </style>
+
+
+    <!--<style name="AppWelcome">-->
+        <!--<item name="android:windowBackground">@mipmap/ic_launcher</item>-->
+        <!--<item name="android:windowIsTranslucent">true</item>-->
+    <!--</style>-->
+
+</resources>
+
