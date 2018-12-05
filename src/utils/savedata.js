@@ -90,27 +90,30 @@ export const NewfromHeightSearch = async (height, address) => {
     let timestamp = res['timestamp'];
     let receipt_res = await fromHashGetValue(receiptHash);
     if (receipt_res && receipt_res.length > 0) {
-        if (receipt_res[0]['success']) {
-            if (receipt_res[0]['subTransactions'] && receipt_res[0]['subTransactions'].length > 0) {
-                receipt_res[0]['subTransactions'].map((item) => {
-                    if (item['from'] === address || item['to'] === address) {
-                        item['success'] = receipt_res[0]['success'];
-                        item['fee'] = receipt_res[0]['fee'];
-                        item['time'] = timestamp;
-                        item['txId'] = receipt_res[0]['txId'];
-                        txList.push(item);
-                    }
-                })
+        receipt_res.map(async (items)=>{
+            if (items['success']) {
+                if (items['subTransactions'] && items['subTransactions'].length > 0) {
+                    items['subTransactions'].map((item) => {
+                        if (item['from'] === address || item['to'] === address) {
+                            item['success'] = items['success'];
+                            item['fee'] = items['fee'];
+                            item['time'] = timestamp;
+                            item['txId'] = items['txId'];
+                            txList.push(item);
+                        }
+                    })
+                }
+            } else {
+                //失败的按一个交易记录展示；
+                let failHash = items['txId'];
+                let failList = await fromHashGetValue(failHash);
+                if (failList['from'] === address || failList['to'] === address) {
+                    failList['success'] = items['success'];
+                    failList['txId'] = failHash;
+                    txList.push(failList);
+                }
             }
-        } else {
-            let failHash = receipt_res[0]['txId'];
-            let failList = await fromHashGetValue(failHash);
-            if (failList['from'] === address || failList['to'] === address) {
-                failList['success'] = receipt_res[0]['success'];
-                failList['txId'] = failHash;
-                txList.push(failList);
-            }
-        }
+        })
     }
     return txList;
 }
